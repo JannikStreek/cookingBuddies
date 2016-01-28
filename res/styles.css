@@ -156,7 +156,7 @@ section {
   top: 0;
   bottom: 0;
   width: 100%;
-  background: url(/res/loading.gif) 50% 45% no-repeat;
+  background: url(./res/loading.gif) 50% 45% no-repeat;
 }
 
 .rel {
