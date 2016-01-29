@@ -80,6 +80,7 @@ section {
   padding: 10px;
 }
 
+
 .floating-signup {
   position: relative;
   padding: 10px 20px;
@@ -170,7 +171,7 @@ section {
   background-size: cover;
   background-repeat: no-repeat;
   background-color: transparent;
-  opacity: .69;
+  opacity: .3;
 }
 
 h1 {
